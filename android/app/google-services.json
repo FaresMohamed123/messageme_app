@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437430136801",
+    "project_id": "messagemy-app-c26a6",
+    "storage_bucket": "messagemy-app-c26a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437430136801:android:897e0475730a6fafaa2ca0",
+        "android_client_info": {
+          "package_name": "at.fares.messageme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkpoPYpOjNSxGVCDJNMza_SZjFuPFa180"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
